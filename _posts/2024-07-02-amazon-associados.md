@@ -1,0 +1,9 @@
+---
+layout: post
+title: amazon associados
+date: 2024-07-02 22:30
+author: Morgao
+comments: true
+categories: [Curiosidades]
+---
+Processador Intel Core i9-9900k Coffee Lake Refresh 9a Geração, Cache 16MB, 3.6GHz (5.0GHz Max Turbo), LGA 1151 - BX80684I99900K <br />https://amzn.to/2TN0p8Q<br /><br />Placa Mae Gigabyte INTEL LGA 1151 DDR4 4133MHZ ATX M.2 SLI Z370 Aorus Gaming 3 <br />https://amzn.to/2UrfqBy<br /><br />Kit De Memória Desktop Ddr 4 16Gb 3000Mhz Cmk16gx4m2b3000c15 Corsair <br />https://amzn.to/2WvYIhY<br />ou<br /><br />MEMORIA DESKTOP GAMER DDR4 CORSAIR CMR16GX4M2D3000C16 16GB KIT (2X8GB) 3000MHZ CL16 VENGEANCE RGB <br />https://amzn.to/2TORUKD<br /><br />Fonte de Alimentação 750 Watt 80 Plus, Corsair CX750, Bronze <br />https://amzn.to/2FF0t5C<br /><br />Hd 1tb Seagate Barracuda Interno 3.5 Sata3 (St1000dm010) <br />https://amzn.to/2WGx2aj<br /><br />ou<br />HDD Seagate Barracuda 4 TB P/ Desktop - ST4000DM005 <br />https://amzn.to/2HRnfuz<br /><br />HD SSD KINGSTON SA400S37 480GB <br />https://amzn.to/2WCRBEh<br /><br />ou<br /><br />SSD - 2,5pol / SATA3 - 120GB - Kingston A400 - SA400S37/120G<br />https://amzn.to/2WDZLMY <br /><br />Gabinete Gamer Aero-500 Window En55576 Preto Aerocool <br />https://amzn.to/2WBYSEn<br /><br />ou<br /><br />Gabinete Gamer Mid Tower SI-5200 Preto AEROCOOL <br />https://amzn.to/2FGRC3f<br /><br />perifericos<br /><br />Mouse Gamer Cooler Master, Mouses <br />https://amzn.to/2FBaiRS<br /><br />ou<br /><br />Mouse Gamer Cooler Master MasterMouse Pro, 12000 DPI - Preto, Com Fio <br />https://amzn.to/2UoLRRk<br /><br />Teclado Mecânico Masterkeys Pro M Rgb - Abnt2 - Switch Blue - Sgk-6040-Kkcl1-Br, Cooler Master, Teclados <br />https://amzn.to/2FFbpQG<br /><br />Mouse pad Cooler Master - MasterAccessory - RGB Hard Gaming Mousepad - MPA-MP720 <br />https://amzn.to/2FIAKt7<br /><br />Headset Gamer, Cooler Master, Microfones e fones de ouvido <br />https://amzn.to/2V9gebF

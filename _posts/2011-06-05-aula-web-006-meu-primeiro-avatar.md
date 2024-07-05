@@ -1,0 +1,12 @@
+---
+layout: post
+title: Aula Web [006] Meu Primeiro Avatar
+date: 2011-06-05 19:45
+author: Morgao
+comments: true
+categories: [Programação Web,Programação,HTML CSS,]
+---
+Aula Web [006] Meu Primeiro Avatar
+
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QLxFv6c0JfDwqXW-FbvaG9eHvhLSIzBdHXa6-Rczq4numWYEHqOO8pbWXOoTgOIXb0QrOY5HjRECacdC1WCsk1TE_wjUy4_IjARhyphenhyphenyAfCN8iDabiJIYo2Qi_ct6L6ebvGbMwDXaNzk8/s1600/avatar.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><br />
+</a></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QLxFv6c0JfDwqXW-FbvaG9eHvhLSIzBdHXa6-Rczq4numWYEHqOO8pbWXOoTgOIXb0QrOY5HjRECacdC1WCsk1TE_wjUy4_IjARhyphenhyphenyAfCN8iDabiJIYo2Qi_ct6L6ebvGbMwDXaNzk8/s1600/avatar.gif" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QLxFv6c0JfDwqXW-FbvaG9eHvhLSIzBdHXa6-Rczq4numWYEHqOO8pbWXOoTgOIXb0QrOY5HjRECacdC1WCsk1TE_wjUy4_IjARhyphenhyphenyAfCN8iDabiJIYo2Qi_ct6L6ebvGbMwDXaNzk8/s1600/avatar.gif" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QLxFv6c0JfDwqXW-FbvaG9eHvhLSIzBdHXa6-Rczq4numWYEHqOO8pbWXOoTgOIXb0QrOY5HjRECacdC1WCsk1TE_wjUy4_IjARhyphenhyphenyAfCN8iDabiJIYo2Qi_ct6L6ebvGbMwDXaNzk8/s1600/avatar.gif" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QLxFv6c0JfDwqXW-FbvaG9eHvhLSIzBdHXa6-Rczq4numWYEHqOO8pbWXOoTgOIXb0QrOY5HjRECacdC1WCsk1TE_wjUy4_IjARhyphenhyphenyAfCN8iDabiJIYo2Qi_ct6L6ebvGbMwDXaNzk8/s320/avatar.gif" width="320" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLyLNFDPpf0CVUkQvG0rSJbeHMQbgqD8BeMOnU8LkC_N98pxB4mQJ0l-9aZH8-__EgR2ZAaytSjSthWk4X4QDH3c_LBhCrwhpNTmYT-YOWleDNvzd9OfVAFQX4o9phYZBsrc-PMIHRSPA/s1600/avatar.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLyLNFDPpf0CVUkQvG0rSJbeHMQbgqD8BeMOnU8LkC_N98pxB4mQJ0l-9aZH8-__EgR2ZAaytSjSthWk4X4QDH3c_LBhCrwhpNTmYT-YOWleDNvzd9OfVAFQX4o9phYZBsrc-PMIHRSPA/s1600/avatar.png" /></a></div>

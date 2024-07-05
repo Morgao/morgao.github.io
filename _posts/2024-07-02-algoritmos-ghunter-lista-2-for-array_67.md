@@ -1,0 +1,9 @@
+---
+layout: post
+title: Algoritmos Ghunter Lista 2 - For - Array Vetor e Matriz - ex 03
+date: 2024-07-02 22:47
+author: Morgao
+comments: true
+categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+---
+#include &lt;iostream&gt;<br />using namespace std;<br />// Matheus Nakade Lista 2 - EX 03<br /><br />int main() { <br /><br />&nbsp;&nbsp;&nbsp; int A[10], B[10], i;<br /><br />&nbsp;&nbsp; <br />&nbsp; <br />// lE os 10 numeros inteiros do vetor A<br />&nbsp;&nbsp;&nbsp; for(i=0;i&lt;10;i++)<br />&nbsp;&nbsp;&nbsp; {&nbsp;&nbsp;&nbsp;&nbsp; <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cin&gt;&gt;A[i];&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />&nbsp;&nbsp; &nbsp;}<br />&nbsp;&nbsp; <br />&nbsp;&nbsp; &nbsp;// mostra o vetor a<br />&nbsp;&nbsp; &nbsp;cout&lt;&lt;"O Vetor Digita e: "&lt;&lt;endl; <br />&nbsp;&nbsp;&nbsp; for(i=0;i&lt;10;i++)<br />&nbsp;&nbsp;&nbsp; {&nbsp; <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;A[i]&lt;&lt;" "; <br />&nbsp;&nbsp;&nbsp; }<br />&nbsp;&nbsp; &nbsp;// fim mostrar vetor a<br />&nbsp;&nbsp; <br />&nbsp;&nbsp; <br />&nbsp;&nbsp; &nbsp;// cria vetor b * fatorail<br />&nbsp;&nbsp; <br />&nbsp;&nbsp; &nbsp;for(i=0;i&lt;10;i++)<br />&nbsp;&nbsp; &nbsp;{<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;for(B[i] = 1; A[i] &gt; 1; A[i]--)<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;{<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;B[i] = B[i] * A[i];<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;}<br />&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;cout&lt;&lt;" "&lt;&lt;endl;<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;cout&lt;&lt;"O faotiral: "&lt;&lt;B[i]&lt;&lt;endl;&nbsp;&nbsp; <br />&nbsp;&nbsp; &nbsp;}&nbsp; <br /><br /><br />&nbsp; <br />&nbsp; <br />&nbsp;&nbsp; &nbsp;cout&lt;&lt;"Fim do Programa"&lt;&lt;endl;<br />&nbsp; <br />&nbsp;&nbsp;&nbsp; return 0;<br /><br />} <br /><br />
