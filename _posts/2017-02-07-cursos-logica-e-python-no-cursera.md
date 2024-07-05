@@ -4,7 +4,7 @@ title: cursos logica e python no coursera
 date: 2017-02-02 19:45
 author: Morgao
 comments: true
-categories: [Cursos]
+categories: Cursos
 ---
 
 Cursos Logica e python no Coursera

@@ -4,7 +4,7 @@ title: Tecnologia C# Microsoft
 date: 2024-06-02 15:00
 author: Morgao
 comments: true
-categories: [Carreira, Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>Open Scource MIT ou  Apache 2.0</p>

@@ -4,7 +4,7 @@ title: Geometria Analítica
 date: 2024-07-02 21:17
 author: Morgao
 comments: true
-categories: [Engenharia Elétrica, Geometria Analítica]
+categories: 
 ---
 GEO.ANA. - DPAAIT.317 - Geometria Analítica - ADRIANA CARVALHO ROSA
 

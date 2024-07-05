@@ -4,7 +4,7 @@ title: Vida &amp; Carreira
 date: 2024-07-02 21:23
 author: Morgao
 comments: true
-categories: [Psicologia, Vida &amp; Carreira]
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>Professor:Claudia Helena da Cruz<br>Disciplina / *Unidade Curricular:Vida &amp; Carreira<br>Carga Horária: 60 Curso:Psicologia Período Letivo: 2023/1</p>

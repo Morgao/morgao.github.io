@@ -4,7 +4,7 @@ title: Aula [002] Linguagem C
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C, Programação]
+categories: Linguagem C
 ---
 Aula [002] Linguagem C
 

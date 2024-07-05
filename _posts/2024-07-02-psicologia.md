@@ -4,7 +4,7 @@ title: Psicologia - Home
 date: 2024-07-02 21:24
 author: Morgao
 comments: true
-categories: [Psicologia]
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>UC's:</p>

@@ -4,7 +4,7 @@ title: Novo curso de JAVA
 date: 2024-07-02 22:50
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, JAVA, Linguagem JAVA, POO, Programação, Programação Orientada a Objetos]
+categories:
 ---
 <div class="postdetails">
 <div class="postbody">

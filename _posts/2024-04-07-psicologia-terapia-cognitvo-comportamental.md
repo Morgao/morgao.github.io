@@ -4,7 +4,7 @@ title: Terapia Cognitiva Comportamental
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Psicologia, Terapia Cognitiva Comportamental]
+categories: Psicologia
 ---
 
 

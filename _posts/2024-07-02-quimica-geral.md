@@ -4,7 +4,7 @@ title: Química Geral
 date: 2024-07-02 21:19
 author: Morgao
 comments: true
-categories: [Engenharia Elétrica, Química]
+categories:
 ---
 QUI.GERAL - DPAAIT.318 - Química Geral - KARINA VITTI KLEIN
 

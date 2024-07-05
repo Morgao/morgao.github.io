@@ -4,7 +4,7 @@ title: Política de privacidade
 date: 2024-06-11 13:09
 author: Morgao
 comments: true
-categories: []
+categories: 
 ---
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:columns -->

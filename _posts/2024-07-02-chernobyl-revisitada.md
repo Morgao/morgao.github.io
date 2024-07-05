@@ -4,7 +4,7 @@ title: Chernobyl - Revisitada!
 date: 2024-07-02 22:38
 author: Morgao
 comments: true
-categories: [ciência dos materiais, Curiosidades, física, química]
+categories:
 ---
 <br />
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/FPC9goAppPM" width="560"></iframe>

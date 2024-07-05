@@ -4,7 +4,7 @@ title: University of Campinas - UNICAMP
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Vagas, Carreira, Organização De Computadores, Ciência da Computação,Cursos]
+categories: Carreira
 ---
 University of Campinas - UNICAMP - Computer Science - - matriz curricular 
 

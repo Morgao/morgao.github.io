@@ -4,7 +4,7 @@ title: Links de livros
 date: 2018-02-10 19:45
 author: Morgao
 comments: true
-categories: [Cursos]
+categories: Cursos
 ---
 
 

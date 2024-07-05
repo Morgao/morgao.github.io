@@ -4,7 +4,7 @@ title: Unity vs Unreal Engine Comparison
 date: 2017-02-12 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Programação]
+categories: Algoritmos
 ---
 
 Unity vs Unreal Engine Comparison : Programming

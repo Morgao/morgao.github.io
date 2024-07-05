@@ -4,7 +4,7 @@ title: Solução de Conflitos e trabalho com grupos
 date: 2024-07-02 21:22
 author: Morgao
 comments: true
-categories: [Sem categoria]
+categories:
 ---
 <!-- wp:paragraph -->
 <p>Professor: Leonardo Aires de Castro<br>Disciplina / *Unidade Curricular: Carga Horária: 160<br>Curso:Psicologia Período Letivo: 2023/1</p>

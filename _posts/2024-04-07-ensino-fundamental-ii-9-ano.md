@@ -4,7 +4,7 @@ title: Ensino Fundamental II -  9 ano
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Matemática, Ensino Fundamental II]
+categories: Ensino Fundamental II
 ---
 
 # Ensino Fundamental II

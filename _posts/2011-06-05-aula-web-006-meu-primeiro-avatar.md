@@ -4,7 +4,7 @@ title: Aula Web [006] Meu Primeiro Avatar
 date: 2011-06-05 19:45
 author: Morgao
 comments: true
-categories: [Programação Web,Programação,HTML CSS,]
+categories: HTML CSS
 ---
 Aula Web [006] Meu Primeiro Avatar
 

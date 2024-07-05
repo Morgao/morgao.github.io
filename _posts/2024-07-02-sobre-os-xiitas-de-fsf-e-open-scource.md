@@ -4,7 +4,7 @@ title: Sobre os Xiitas de FSF e open scource
 date: 2024-07-02 22:34
 author: Morgao
 comments: true
-categories: [Ciência da Computação, Curiosidades]
+categories:
 ---
 Free Software Foundation, Open Source. código livre e codigo aberto. extremistas partidarios que acreditam que cabe a mesma discussãode proletario a software ... e dizem em palestras por exemplo "primeiramente fora temer" e não assito youtube porque não tenho acesso ao codigo fonte! #$@(!&amp;#" baboseira de extremista burro! se todo software fosse aberto, gratiuto e você tivesse acesso ao seu código fonte você teria que viver o que ? 1500 anos pra só ler todo código fonte do que ja foi produzido hoje ? estou falando só de leitura e dar um uso real a todo esse código/conhecimento... baboseira ideologica<br />
 <br />

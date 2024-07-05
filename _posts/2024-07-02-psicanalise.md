@@ -4,7 +4,7 @@ title: Psicanálise
 date: 2024-07-02 21:23
 author: Morgao
 comments: true
-categories: [Psicologia]
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>Professor: Wellita de Oliveira Cavalcante<br>Disciplina / *Unidade Curricular: Psicanálise, teoria e técnica<br>Carga Horária: 160 Curso:Psicologia Período Letivo: 2023/1</p>

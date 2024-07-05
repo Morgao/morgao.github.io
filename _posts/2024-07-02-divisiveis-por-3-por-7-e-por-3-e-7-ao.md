@@ -4,7 +4,7 @@ title: divisiveis por 3, por 7 e por 3 e 7 ao mesmo tempo
 date: 2024-07-02 22:47
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 #include &lt;iostream&gt;<br />
 using namespace std;<br />

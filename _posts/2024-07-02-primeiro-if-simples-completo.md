@@ -4,7 +4,7 @@ title: primeiro if simples completo
 date: 2024-07-02 22:44
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 #include &lt;iostream&gt;<br />
 // biblioteca do system cls<br />#include &lt;cstdlib&gt;<br />using namespace std;<br /><br /><br />int main() {<br />&nbsp;&nbsp;&nbsp; <br />&nbsp;&nbsp;&nbsp; int n1, n2, res;<br />&nbsp;&nbsp;&nbsp; char opc;<br />

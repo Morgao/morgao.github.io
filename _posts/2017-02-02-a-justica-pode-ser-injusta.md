@@ -4,7 +4,7 @@ title: a justiça pode ser injusta ?
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Curiosidade, Organização]
+categories: Curiosidade
 ---
 a justiça pode ser injusta ?
 

@@ -4,7 +4,7 @@ title: Algoritmos I - Linguagem de Programação
 date: 2024-07-02 21:18
 author: Morgao
 comments: true
-categories: [Algoritmos 1, Algoritmos e Estrutura de Dados, Algoritmos I, Engenharia Elétrica, Programação]
+categories: 
 ---
 ALGORITMO1 - DPAAIT.315 - Algoritmos e Linguagem de Programação I - GHUNTER PAULO VIAJANTE
 

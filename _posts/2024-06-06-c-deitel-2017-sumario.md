@@ -4,7 +4,7 @@ title: C# Deitel 2017 Sumario
 date: 2024-06-02 16:47
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>C# Deitel 2017</p>

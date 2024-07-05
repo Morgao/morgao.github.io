@@ -4,7 +4,7 @@ title: Junior Miscrosoft Requisitos
 date: 2024-02-06 15:00
 author: Morgao
 comments: true
-categories: [Carreira, Carreira, Ciências da Computação, Vaga]
+categories: Vaga
 ---
 <!-- wp:paragraph -->
 <p>Habilidades Essenciais para Programadores Juniores em Consultorias: Guia Completo para o Sucesso!</p>

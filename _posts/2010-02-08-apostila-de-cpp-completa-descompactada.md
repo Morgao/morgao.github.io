@@ -4,7 +4,7 @@ title: Apostila de C++ Completa Descompactada
 date: 2010-06-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: Linguagem C++
 ---
 
 Apostila de C++ Completa Descompactada

@@ -4,7 +4,7 @@ title: Introdução à Engenharia Elétrica
 date: 2024-07-02 21:20
 author: Morgao
 comments: true
-categories: [Engenharia Elétrica, Introdução à Engenharia Elétrica]
+categories: 
 ---
 <p style="text-align:left">INTRODUÇÃO - DPAAIT.314 - Introdução à Engenharia Elétrica - CLAUDIO ROBERTO PACHECO</p>
 

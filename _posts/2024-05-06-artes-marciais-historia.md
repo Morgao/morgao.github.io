@@ -4,7 +4,7 @@ title: Artes Marciais História
 date: 2024-02-06 15:05
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: Psicologia
 ---
 <!-- wp:paragraph -->
 <p><strong>Linha do Tempo Detalhada das Artes Marciais e suas Influências (com Datas de Criação)</strong></p>

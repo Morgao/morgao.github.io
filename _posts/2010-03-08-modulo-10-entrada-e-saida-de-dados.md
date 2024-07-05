@@ -4,7 +4,7 @@ title: Módulo 10 - Entrada e Saída de Dados
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C++, Programação]
+categories: Linguagem C++
 ---
 Módulo 10 - Entrada e Saída de Dados
 A maioria dos programas de computador trabalham com arquivos. Processadores de texto criam e editar arquivos de texto; navegadores de internet interpretam e exibem arquivos HTML; compiladores leêm arquivos-fonte e geram arquivos executáveis. Um arquivo nada mais é do que uma sequência de bytes armazenada em um dispositivo, seja esse dispositivo ,por exemplo, um disco rígido, um CD ou um disquete. Tipicamente, o sistema operacional gerencia os arquivos presentes em um computador, mantendo registro de onde estão armazenados, quais os seus tamanhos, quando foram criados, etc.

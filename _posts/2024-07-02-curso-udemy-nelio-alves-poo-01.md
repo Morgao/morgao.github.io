@@ -4,7 +4,7 @@ title: curso () POO 01
 date: 2024-07-02 22:50
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, JAVA, Linguagem JAVA, POO, Programação, Programação Orientada a Objetos]
+categories:
 ---
 <p>Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas
 válidas). Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos

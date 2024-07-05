@@ -4,7 +4,7 @@ title: Módulo 6 - Estruturas de Controle de Fluxo
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C++, Programação]
+categories: Linguagem C++
 ---
 Módulo 6 - Estruturas de Controle de Fluxo
 Módulo 6 - Estruturas de Controle de Fluxo

@@ -4,7 +4,7 @@ title: steam be a guide;
 date: 2024-07-02 22:31
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: 
 ---
 https://howlongtobeat.com/game.php?id=29988<br />
 https://howlongtobeat.com/game.php?id=19776<br />

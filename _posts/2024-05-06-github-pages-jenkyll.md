@@ -4,7 +4,7 @@ title: Github Pages Jenkyll
 date: 2024-02-06 19:13
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: 
 ---
 ---
 

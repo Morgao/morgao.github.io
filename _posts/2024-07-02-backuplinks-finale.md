@@ -4,7 +4,7 @@ title: backuplinks finale
 date: 2024-07-02 22:37
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: 
 ---
 https://www.treinaweb.com.br/login<br />
 https://github.com/<br />

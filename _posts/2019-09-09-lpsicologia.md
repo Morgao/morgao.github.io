@@ -4,7 +4,7 @@ title: Psicologia
 date: 2023-03-03 13:52
 author: Morgao
 comments: true
-categories: []
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>UC's:</p>

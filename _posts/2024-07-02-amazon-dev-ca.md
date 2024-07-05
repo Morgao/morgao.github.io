@@ -4,7 +4,7 @@ title: Amazon dev CA
 date: 2024-07-02 22:30
 author: Morgao
 comments: true
-categories: [Vaga]
+categories: 
 ---
 <a aria-label="Location Vancouver, Canadá" href="https://www.amazon.jobs/pt/locations/vancouvervictoria-canada">Vancouver, Canadá</a><br />
 <div class="info-wrapper col-12 col-md-6 col-lg-7 col-xl-8">

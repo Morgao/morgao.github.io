@@ -4,7 +4,7 @@ title: Java (linguagem de programação)
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: Linguagem JAVA
 ---
 Java
 Java (linguagem de programação)

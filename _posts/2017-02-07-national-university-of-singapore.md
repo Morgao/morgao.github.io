@@ -4,7 +4,7 @@ title: NUS - National University of Singapore - computer science - matriz curric
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Vagas, Carreira, Organização De Computadores, Ciência da Computação,Cursos]
+categories: Carreira
 ---
 
 NUS - National University of Singapore - computer science - matriz curricular

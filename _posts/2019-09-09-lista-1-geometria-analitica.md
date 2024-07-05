@@ -4,7 +4,7 @@ title: Lista 1 - Geometria Analítica
 date: 2019-09-09 05:00
 author: Morgao
 comments: true
-categories: [Engenharia Elétrica, Geometria Analítica]
+categories: 
 ---
 <a href="https://matematicafibonacci.wordpress.com/wp-content/uploads/2019/09/330857-1_-_aula_sobre_vetores_no_plano_-_ga_-_engenharias.pdf">330857-1_-_Aula_sobre_vetores_no_plano_-_GA_-_Engenharias</a>
 

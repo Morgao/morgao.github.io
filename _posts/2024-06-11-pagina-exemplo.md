@@ -4,7 +4,7 @@ title: Página de exemplo
 date: 2024-06-11 13:09
 author: Morgao
 comments: true
-categories: []
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>Esta é uma página de exemplo. É diferente de um post no blog porque ela permanecerá em um lugar e aparecerá na navegação do seu site na maioria dos temas. Muitas pessoas começam com uma página que as apresenta a possíveis visitantes do site. Ela pode dizer algo assim:</p>

@@ -4,7 +4,7 @@ title: Requisito Padrão Emprego
 date: 2024-02-06 15:01
 author: Morgao
 comments: true
-categories: [Carreira, Carreira, Ciências da Computação, Vaga]
+categories: Vaga
 ---
 <!-- wp:paragraph -->
 <p>Currículo Matador para Estágios de Programação C#, Web e Desktop: Guia Completo para Você Conquistar a Vaga dos Sonhos!</p>

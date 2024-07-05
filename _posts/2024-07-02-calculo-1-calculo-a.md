@@ -4,7 +4,7 @@ title: Cálculo 1  / Cálculo A -
 date: 2024-07-02 21:18
 author: Morgao
 comments: true
-categories: [Cálculo 1, Cálculo A, Engenharia Elétrica]
+categories:
 ---
 CÁLCULO1 - DPAAIT.316 - Cálculo I - ANTUNES DE LIMA MENDES
 

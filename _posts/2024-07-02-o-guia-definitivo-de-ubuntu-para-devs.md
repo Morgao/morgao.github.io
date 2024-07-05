@@ -4,7 +4,7 @@ title: O Guia DEFINITIVO de UBUNTU para Devs Iniciantes  Fabio Akita
 date: 2024-07-02 22:33
 author: Morgao
 comments: true
-categories: [Akita, Ciência da Computação]
+categories:
 ---
 https://www.youtube.com/watch?v=epiyExCyb2s&amp;t=2556s <br />
 <br />

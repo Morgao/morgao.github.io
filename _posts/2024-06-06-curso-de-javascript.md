@@ -4,7 +4,7 @@ title: Curso de Javascript
 date: 2024-06-02 15:04
 author: Morgao
 comments: true
-categories: [Carreira, Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>Análise Detalhada de Cursos de JavaScript: Desvendando as Melhores Opções para Você!</p>

@@ -4,7 +4,7 @@ title: Configuração padrão do meu notebook
 date: 2024-06-02 16:43
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>windows</p>

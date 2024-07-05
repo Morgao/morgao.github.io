@@ -4,7 +4,7 @@ title: Mestrado (Master) - Ensino a Distância ILLINOIS, a U.S. no coursera.org
 date: 2017-02-12 19:45
 author: Morgao
 comments: true
-categories: [Cursos, Organização De Computadores, Ciência da Computação ]
+categories: Carreira
 ---
 Mestrado (Master) - Ensino a Distância ILLINOIS, a U.S. no coursera.org
 Master of Computer Science in Data Science (MCS-DS)

@@ -4,7 +4,7 @@ title: Amazon dev CA
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Vagas, Carreira]
+categories: Vagas
 ---
 Amazon dev CA
 Vancouver, Canadá

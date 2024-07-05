@@ -4,7 +4,7 @@ title: Bob Esponja
 date: 2024-02-06 20:18
 author: Morgao
 comments: true
-categories: []
+categories: 
 ---
 <!-- wp:paragraph -->
 <p>abc</p>

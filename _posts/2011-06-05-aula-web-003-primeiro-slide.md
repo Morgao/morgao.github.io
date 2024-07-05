@@ -4,7 +4,7 @@ title: Aula Web [003] Primeiro Slide
 date: 2011-06-05 19:45
 author: Morgao
 comments: true
-categories: [Programação Web,Programação,HTML CSS,]
+categories: HTML CSS
 ---
 Aula Web [003] Primeiro Slide
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4KVlxst0HXsGN0GHqQRGcr_VDwi9HFHDp8UN1Zlc1SEN-gWv-6h7X0yKdf7PfUObt5q4Rg1aGxrvxlArQsEMi5kmPafs2ZuobQxWOfv7D7nySHpJexO74aAKOqtZZl8ea1Sy3W8mRss/s1600/Slide1.GIF" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4KVlxst0HXsGN0GHqQRGcr_VDwi9HFHDp8UN1Zlc1SEN-gWv-6h7X0yKdf7PfUObt5q4Rg1aGxrvxlArQsEMi5kmPafs2ZuobQxWOfv7D7nySHpJexO74aAKOqtZZl8ea1Sy3W8mRss/s320/Slide1.GIF" width="320" /></a></div><br />

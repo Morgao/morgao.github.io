@@ -4,7 +4,7 @@ title: DISCURSIVA 2
 date: 2024-07-02 22:28
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories:
 ---
 #include &lt;stdio.h&gt;<br />#include &lt;stdlib.h&gt;<br />&nbsp;&nbsp;&nbsp; void main(){<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int f1 = 0, f2 = 1, fn = 0, n;<br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; fn = f1 + f2;<br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; while(fn &lt;= 50000){<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fn++;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (fn%3 == 0 &amp;&amp;&nbsp; fn%7 == 0){<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; printf ("%d\n", fn);}<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; f1 = f2; f2 = fn; fn = f1 + f2; }<br />&nbsp;&nbsp;&nbsp; return 0;}<br />
 <br />

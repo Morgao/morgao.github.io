@@ -4,7 +4,7 @@ title: lista p entregar a1
 date: 2024-07-02 22:43
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 incompleto<br />
 #include &lt;iostream&gt;<br />

@@ -4,7 +4,7 @@ title: C Programming Language Version History
 date: 2024-07-02 22:35
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 <table class="defaultTable"><tbody>
 <tr><th>&nbsp; 1969 and 1973 at Bell Labs</th></tr>

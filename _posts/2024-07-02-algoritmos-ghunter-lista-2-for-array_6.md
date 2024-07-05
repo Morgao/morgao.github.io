@@ -4,7 +4,7 @@ title: Algoritmos Ghunter Lista 2 - For - Array Vetor e Matriz - ex 04
 date: 2024-07-02 22:46
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 #include &lt;iostream&gt;<br />
 using namespace std;<br />

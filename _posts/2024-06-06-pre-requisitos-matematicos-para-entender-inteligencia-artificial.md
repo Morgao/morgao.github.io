@@ -4,7 +4,7 @@ title: Pré-requisitos Matemáticos para Entender Inteligência Artificial
 date: 2024-06-02 16:20
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>Pré-requisitos Matemáticos para Entender Inteligência Artificial:</p>

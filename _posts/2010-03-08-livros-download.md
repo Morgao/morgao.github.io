@@ -4,7 +4,7 @@ title: Livros Download
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Programação]
+categories: Livros
 ---
 Livros download
 Apostila Dev-C++ em PDF

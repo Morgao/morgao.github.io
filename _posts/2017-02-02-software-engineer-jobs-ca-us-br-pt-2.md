@@ -4,7 +4,7 @@ title: software engineer - Jobs - CA - US - BR - pt 2
 date: 2017-02-12 19:45
 author: Morgao
 comments: true
-categories: [Vagas, Carreira]
+categories: Vagas
 ---
 
 software engineer - Jobs - CA - US - BR - pt 2

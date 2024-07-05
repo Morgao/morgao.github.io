@@ -4,7 +4,7 @@ title: 1 exercicio 1 fibonacci da forma mais simples.
 date: 2024-07-02 22:27
 author: Morgao
 comments: true
-categories: [matemática]
+categories: Matemática
 ---
 <b>Algoritmos e Linguagem de Programação</b><br />
 <b>Lista de exercícios</b><br />

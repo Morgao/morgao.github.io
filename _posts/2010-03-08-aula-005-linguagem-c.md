@@ -4,7 +4,7 @@ title: Aula [005] Linguagem C
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C, Programação]
+categories: Linguagem C
 ---
 Aula [005] Linguagem C
 1)Escreva um programa para ler o valor de uma compra em uma loja, e que de quantas notas de cada Nota em dinheiro essa pessoa recebera de troco.mostrando o resultado sendo inteiro positivo na tela final do programa.

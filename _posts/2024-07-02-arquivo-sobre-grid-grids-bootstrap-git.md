@@ -4,7 +4,7 @@ title: Arquivo Sobre grid, grids, bootstrap git versionamento
 date: 2024-07-02 22:27
 author: Morgao
 comments: true
-categories: [CSS, HTML, HTML CSS, Programação, Programação Web]
+categories: 
 ---
 https://www.alura.com.br/curso-online-grids-uma-apresentacao-com-indesign<br />
 <br />

@@ -4,7 +4,7 @@ title: Recomendação - Links - Páginas
 date: 2017-02-06 10:01
 author: Morgao
 comments: true
-categories: []
+categories: 
 ---
 Sites importantes<br />
 Matemática Pura, Matemática Aplicada, Computação, educação matemática, teoria dos números, programação e desenvolvimento de jogos.<br />

@@ -4,7 +4,7 @@ title: for padrao
 date: 2024-07-02 22:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 &nbsp;&nbsp; for(inicio da variavel; condicao para continuar no loop; incremento ou decremento da variavel)<br />&nbsp;&nbsp; {<br />&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; comandos;<br />&nbsp;&nbsp; }<br />
 <br />

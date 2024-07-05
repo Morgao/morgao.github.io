@@ -4,7 +4,7 @@ title: Ubuntu 18.04 LTS Netflix Solução 23/07/2019
 date: 2024-07-02 22:32
 author: Morgao
 comments: true
-categories: [Ciência da Computação]
+categories: 
 ---
 &nbsp;nome do erro anterior que não permitia nem o user login no netflix !<br />
 Netflix Site Error We were unable to process your request.Please go to the Netflix home page by clicking the button below.<br />

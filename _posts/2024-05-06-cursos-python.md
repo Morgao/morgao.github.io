@@ -4,7 +4,7 @@ title: Cursos Python
 date: 2024-02-06 15:02
 author: Morgao
 comments: true
-categories: [Carreira, Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>Imersão no Mundo Python: Descubra os Melhores Cursos para Você!</p>

@@ -4,7 +4,7 @@ title: Estagio  na IBM Miscrosoft
 date: 2024-06-02 15:01
 author: Morgao
 comments: true
-categories: [Carreira, Carreira, Ciências da Computação, Vaga]
+categories: Vaga
 ---
 <!-- wp:paragraph -->
 <p>Habilidades Essenciais para Estagiários de Programação C# na IBM: Guia Completo para o Sucesso!</p>

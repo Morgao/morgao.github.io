@@ -4,7 +4,7 @@ title: while vs do while
 date: 2024-07-02 22:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 while se nao satifazer a questao pode pular esse bloco de comandos<br />
 do while " inscrementa " uma vez ao menos e depois verifica se satifaz a condicao<br />

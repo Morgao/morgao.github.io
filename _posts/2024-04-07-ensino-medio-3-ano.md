@@ -4,7 +4,7 @@ title: Ensino Médio - 3 ano
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Ensino Médio]
+categories: Ensino Médio
 ---
 
 

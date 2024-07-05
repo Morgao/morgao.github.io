@@ -4,7 +4,7 @@ title: history o.s
 date: 2024-07-02 22:32
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Organização de Computadores, Programação]
+categories: 
 ---
 https://www.youtube.com/results?search_query=history+operation+system<br />
 <br />

@@ -4,7 +4,7 @@ title: Aula [007] Linguagem C
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C, Programação]
+categories: Linguagem C
 ---
 Aula [007] Linguagem C
 1)      Como saber se um numero é par ou impar sabendo que se adivisao tiver resto 1 ela sera impar se for 0 é par.

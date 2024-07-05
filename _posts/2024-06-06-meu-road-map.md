@@ -4,7 +4,7 @@ title: Meu Road Map
 date: 2024-06-02 15:40
 author: Morgao
 comments: true
-categories: [Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:heading -->
 <h2 class="wp-block-heading">cursos extra</h2>

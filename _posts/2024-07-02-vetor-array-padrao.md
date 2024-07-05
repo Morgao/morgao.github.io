@@ -4,7 +4,7 @@ title: vetor  // array  padrao
 date: 2024-07-02 22:46
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories: 
 ---
 tipo_do_vetor nome_do_vetor[_tamanho_do_vetor]<br />
 <br />

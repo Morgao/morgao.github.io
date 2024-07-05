@@ -4,7 +4,7 @@ title: Leitura e Produção de texto - Língua Portuguesa
 date: 2024-07-02 21:20
 author: Morgao
 comments: true
-categories: [Engenharia Elétrica, Leitura e Produção de Texto, Português]
+categories: 
 ---
 LP - DPAAIT.319 - Língua Portuguesa - WAQUILA PEREIRA NEIGRAMES
 2ª-FEIRA 13:00~13:45 e 13:46~14:30

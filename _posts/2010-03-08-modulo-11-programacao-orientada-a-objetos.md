@@ -4,7 +4,7 @@ title: Módulo 11 – Programação Orientada à Objetos
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C++, Programação]
+categories: Linguagem C++
 ---
 Módulo 11 – Programação Orientada à Objetos
 Nos módulos anteriores, cobrimos todos os aspectos essenciais da programação estruturada em C++. Entretanto, a linguagem C++ possui muito mais aspectos do que os tratados até agora. Pode-se dizer que tocamos apenas na ponta do iceberg: o verdadeiro poder de C++ está na sua versatilidade e capacidade de ser programada em vários paradigmas diferentes, seja programação estruturada, orientada à objetos ou orientada à templates. O módulo à seguir tenta fazer uma explicação básica sobre o que é a programação orientada à objetos, dando aos leitores uma breve introdução aos conceitos essenciais deste paradigma, sem adentrar em exemplos de código.

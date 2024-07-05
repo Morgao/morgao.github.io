@@ -4,7 +4,7 @@ title: Aula [003] Linguagem C
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C, Programação]
+categories: Linguagem C
 ---
 Aula [003] Linguagem C
 1) Escreva dois números,faca uma divisao dos números inteiros, mostrando o resultado na tela final do programa.

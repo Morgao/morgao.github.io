@@ -4,7 +4,7 @@ title: PAPMEM e Geometria Analítica
 date: 2024-07-02 22:38
 author: Morgao
 comments: true
-categories: [matemática]
+categories:
 ---
 <br />
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/DLGGB-4oTBc" width="560"></iframe>

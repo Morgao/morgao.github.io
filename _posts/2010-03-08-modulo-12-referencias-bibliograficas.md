@@ -4,7 +4,7 @@ title: Módulo 12 Referências Bibliográficas
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
-categories: [Algoritmos, Linguagem C++, Programação]
+categories: Linguagem C++
 ---
 Módulo 12 Referências Bibliográficas
 Referências Bibliográficas

@@ -4,7 +4,7 @@ title: matriz 2 indice do lugar para dar o valor
 date: 2024-07-02 22:46
 author: Morgao
 comments: true
-categories: [Algoritmos, Algoritmos 1, Algoritmos e Estruturas de Dados, beecrowd, Linguagem C, Programação]
+categories:
 ---
 #include &lt;iostream&gt;<br />
 using namespace std;<br />

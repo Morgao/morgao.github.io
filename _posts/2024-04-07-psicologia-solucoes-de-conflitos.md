@@ -4,7 +4,7 @@ title: Solução de Conflitos
 date: 2017-02-07 19:45
 author: Morgao
 comments: true
-categories: [Psicologia, Solução de Conflitos]
+categories: Psicologia
 ---
 
 

@@ -4,7 +4,7 @@ title: Plataforma de Cursos
 date: 2024-06-02 15:02
 author: Morgao
 comments: true
-categories: [Carreira, Curiosidades]
+categories: Curiosidades
 ---
 <!-- wp:paragraph -->
 <p>Comparativo Experiência de Alunos em Plataformas de Cursos: Guia Detalhado para Sua Decisão!</p>
