@@ -1,11 +1,13 @@
 ---
-layout: post
+layout: page
 title: Aula [002] Linguagem C
 date: 2010-02-08 19:45
 author: Morgao
 comments: true
 categories: Linguagem C
 ---
+* content
+{:toc}
 Aula [002] Linguagem C
 
 1) Escreva dois números,faca uma subtração dos números inteiros, mostrando o resultado sendo inteiro positivo ou negativo na tela final do programa.

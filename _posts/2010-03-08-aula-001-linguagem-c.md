@@ -1,11 +1,15 @@
 ---
-layout: post
-title: Aula [001] Linguagem C
-date: 2010-02-08 19:45
+layout: page
+title:  "hello jekyll!"
+date:   2015-02-10 15:14:54
+categories: jekyll
 author: Morgao
-comments: true
-categories: Linguagem C
+tags: jekyll
+excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+mathjax: true
 ---
+* content
+{:toc}
 Aula [001] Linguagem C
 
 
