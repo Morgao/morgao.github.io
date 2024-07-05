@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unity vs Unreal Engine Comparison : Programming
+title: Unity vs Unreal Engine Comparison 
 date: 2017-02-12 19:45
 author: Morgao
 comments: true
